@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Padraig O'Riordan  Padraig.ORiordan@expleogroup.com
 
 # THANKS
 

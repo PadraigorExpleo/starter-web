@@ -26,5 +26,5 @@ Sample website with plenty of files for demos
 
 
 
-2026 Git.Training.
+2026 Git.Training. All rights reserved.
 
